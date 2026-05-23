@@ -21,5 +21,10 @@ namespace proje
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            // bu buton pictureboxa resim ekler
+        }
     }
 }
