@@ -1,0 +1,53 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# .NET / MSBuild
+*.pdb
+*.ilk
+*.meta
+*.nupkg
+*.snupkg
+project.lock.json
+project.assets.json
+artifacts/
+TestResults/
+
+# NuGet
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Windows Forms designer/runtime cache
+*.cache
+*.resources
+*.Designer.cs.tmp
+
+# ReSharper / Rider
+_ReSharper*/
+*.DotSettings.user
+.idea/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+*.tlog
